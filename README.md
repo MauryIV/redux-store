@@ -35,6 +35,9 @@ This code is best use as a reference.
 
 <a id="Visuals"></a>
 ## Visuals
+![Screenshot 2024-06-15 at 6 48 15 PM](https://github.com/MauryIV/redux-store/assets/146037880/d30241bb-efd6-46db-8c39-ff7fdcf9e359)
+![Screenshot 2024-06-15 at 6 48 23 PM](https://github.com/MauryIV/redux-store/assets/146037880/a09cf42d-960b-424c-961f-7759270ba624)
+![Screenshot 2024-06-15 at 6 48 34 PM](https://github.com/MauryIV/redux-store/assets/146037880/7d5e0215-9975-40f3-9197-ebbd1388d24d)
 
 <a id="tests"></a>
 ## Tests
