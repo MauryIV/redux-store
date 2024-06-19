@@ -3,7 +3,7 @@
 
 <a id="description"></a>
 ## Description
-This is an example of managing a global state using Redux, refactoring for Context API. Just slightly more elaborate for the last example.
+This is an example of managing a global state using Redux, refactoring for Context API. Just slightly more elaborate for the last example. (Deployed Site)[https://redux-store-py7a.onrender.com]
 
 ## Table of Contents
 - [Title](#title)
